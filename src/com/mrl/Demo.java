@@ -8,7 +8,7 @@ public class Demo
         double price = 1.2;
         int count = 2;
         double sum = price*count;
-        System.out.println(sum);
-        
+        System.out.println(sum);;;;;
+        System.out.println("");
     }
 }
