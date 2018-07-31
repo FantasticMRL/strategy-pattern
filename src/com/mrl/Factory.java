@@ -1,5 +1,13 @@
 package com.mrl;
 
+/**
+ *  简单工厂模式，根据类型返回对应的实现类
+ *  [功能详细描述]
+ * @作者 lwqMR
+ * @version [版本号, 2018年7月31日]
+ * @see [相关类/方法]
+ * @since [产品/模块版本] 
+ */
 public class Factory
 {
     
